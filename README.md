@@ -6,7 +6,7 @@
 - Утас: +976 8896 9631
 - Facebook: https://www.facebook.com/ayur.ariunaa.2025
 
-Вэб хуудас: https://shimamurahanahana.github.io/temeen-hyaruul-tos/
+Вэб хуудас: https://temeenhyaruuliintos.netlify.app/
 
 ## Админд: сэтгэгдэл нэмэх
 
